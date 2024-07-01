@@ -30,6 +30,9 @@ On PC/Laptop Users can run  | On PC/Laptop/Phone Users can run
 
 __To run less uptime based node on your computer/laptop, follow these steps :__
 
+https://github.com/dxzenith/nodes-faq/assets/161211651/9a8ce3d6-4a4d-4e0a-8ecd-7d7c13873d83
+
+
 Run Command Pormpt as an Administrator
 Then use these commands one by one
  ```bash
